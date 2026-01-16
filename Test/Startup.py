@@ -6,4 +6,4 @@ import sys
 # command = f"{sys.executable} -m pip install git+https://github.com/HarishKumarSedu/dfttools.git@main"
 # os.system(command)
 
-print('hi')
+print('hi....1')

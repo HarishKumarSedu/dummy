@@ -1,4 +1,4 @@
-# Processed on 2026-01-16 11:20:00
+# Processed on 2026-01-16 11:21:46
 import os 
 import sys
 # example code to install python pacakage
@@ -7,4 +7,4 @@ import sys
 # command = f"{sys.executable} -m pip install git+https://github.com/HarishKumarSedu/dfttools.git@main"
 # os.system(command)
 
-print('hi')
+print('hi....1')
